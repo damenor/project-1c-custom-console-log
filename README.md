@@ -5,7 +5,7 @@ Module for custom console.log()
 ## Install
 
 ```
-npm proyect-1b-api-github
+npm project-1c-custom-console-log
 ```
 
 ## Use
